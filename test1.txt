@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is AAF2-9327
+
+ Directory of D:\MyFolder\MyFolderGit
+
+07/06/2020  02:43 PM    <DIR>          .
+07/06/2020  02:43 PM    <DIR>          ..
+07/06/2020  02:43 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  27,967,295,488 bytes free
